@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Softcell Pvt. Ltd.",
+    "url": "https://www.softcell.com/",
+    "location": "Mumbai, Maharashtra",
+    "role": "Junior Python Developer",
+    "image": "softcell.png",
+    "startDate" : "Jan 2022",
+    "endDate": "Jul 2022"
+  },
+  {
+    "name": "Rhythmflows Solution Pvt. Ltd.",
+    "url":"https://rhythmflows.com/",
+    "location": "Pune, Maharashtra",
+    "role":"Software Developer",
+    "image": "rhythmflows.png",
+    "startDate" :  "Aug 2022",
+    "endDate": "Sep 2023"
+  }
+
+]

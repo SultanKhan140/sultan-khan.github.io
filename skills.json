@@ -1,0 +1,115 @@
+[
+
+    {
+        "name": "Python",
+        "icon": "hhttps://img.icons8.com/color/48/000000/python"
+    },    
+    {
+        "name": "Django",
+        "icon": "https://img.icons8.com/color/48/000000/django"
+    },
+    {
+        "name": "DRF",
+        "icon": "./assets/images/skills/django-rest-framework.png"
+    },
+    {
+        "name": "Flask",
+        "icon": "https://img.icons8.com/color/48/000000/flask"
+    },
+    {
+        "name": "FastApi",
+        "icon": "./assets/images/skills/fast-api.png"
+    },
+    {
+        "name": "Numpy",
+        "icon": "https://img.icons8.com/color/48/000000/numpy"
+    },
+    {
+        "name": "Pandas",
+        "icon": "https://img.icons8.com/color/48/000000/pandas"
+    },
+    
+
+    
+    
+
+    {
+        "name": "HTML5",
+        "icon": "https://img.icons8.com/color/48/000000/html-5--v1.png"
+    },
+    {
+        "name": "CSS3",
+        "icon": "https://img.icons8.com/color/48/000000/css3.png"
+    },
+    {
+        "name": "JavaScript",
+        "icon": "https://img.icons8.com/color/48/000000/javascript--v1.png"
+    },
+    {
+        "name": "TypeScript",
+        "icon": "https://img.icons8.com/color/48/null/typescript.png"
+    },
+    {
+        "name": "Angular",
+        "icon": "https://img.icons8.com/color/48/null/angularjs.png"
+    },
+    
+
+
+
+ 
+    {
+        "name": "MySQL",
+        "icon": "https://img.icons8.com/color/48/000000/mysql-logo.png"
+    },
+    {
+        "name": "PostgreSQL",
+        "icon": "https://img.icons8.com/color/48/000000/postgreesql.png"
+    },
+    {
+        "name": "SQLite",
+        "icon": "https://img.icons8.com/color/48/000000/SQLite.png"
+    },
+
+
+    
+    {
+        "name": "Git",
+        "icon": "https://img.icons8.com/color/48/000000/git.png"
+    },
+    {
+        "name": "GitHub",
+        "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
+    },
+    {
+        "name": "GitLab",
+        "icon": "https://img.icons8.com/color/48/000000/gitlab.png"
+    },
+    
+    
+
+    {
+        "name": "Jenkins",
+        "icon": "https://img.icons8.com/color/48/null/jenkins.png"
+    },
+    {
+        "name": "Docker",
+        "icon": "https://img.icons8.com/color/48/null/docker.png"
+    },
+    {
+        "name": "Docker Compose",
+        "icon": "./assets/images/skills/docker_compose.png"
+    },
+    {
+        "name": "Docker Swarm",
+        "icon": "./assets/images/skills/docker_swarm.png"
+    },
+    {
+        "name": "kubernetes",
+        "icon": "https://img.icons8.com/color/48/kubernetes.png"
+    },
+    {
+        "name": "AWS",
+        "icon": "https://img.icons8.com/color/48/000000/amazon-web-services.png"
+    }
+]
