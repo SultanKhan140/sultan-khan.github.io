@@ -1,12 +1,12 @@
 [
   {
-    "name": "Softcell Pvt. Ltd.",
-    "url": "https://www.softcell.com/",
-    "location": "Mumbai, Maharashtra",
-    "role": "Junior Python Developer",
-    "image": "softcell.png",
-    "startDate" : "Jan 2022",
-    "endDate": "Jul 2022"
+    "name": "Redshire Matrix Pvt. Ltd.",
+    "url":"https://redshirematrix.com/",
+    "location": "Delhi",
+    "role":"Full Stack Django Developer",
+    "image": "redshire matrix.png",
+    "startDate" :  "Sep 2023",
+    "endDate": "Present"
   },
   {
     "name": "Rhythmflows Solution Pvt. Ltd.",
@@ -16,6 +16,15 @@
     "image": "rhythmflows.png",
     "startDate" :  "Aug 2022",
     "endDate": "Sep 2023"
+  },
+  {
+    "name": "Softcell Pvt. Ltd.",
+    "url": "https://www.softcell.com/",
+    "location": "Mumbai, Maharashtra",
+    "role": "Junior Python Developer",
+    "image": "softcell.png",
+    "startDate" : "Jan 2022",
+    "endDate": "Jul 2022"
   }
 
 ]

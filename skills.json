@@ -18,7 +18,7 @@
     },
     {
         "name": "FastApi",
-        "icon": "./assets/images/skills/fast-api.png"
+        "icon": "./assets/images/skills/fast-api.jpg"
     },
     {
         "name": "Numpy",
@@ -68,7 +68,7 @@
     },
     {
         "name": "SQLite",
-        "icon": "https://img.icons8.com/color/48/000000/SQLite.png"
+        "icon": "https://img.icons8.com/48/sqlite.png"
     },
 
 
