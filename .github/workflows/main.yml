@@ -3,7 +3,7 @@ name: Protfolio Pages
 on:
   push:
     branches:
-      - master  # Set the branch you want to deploy from
+      - main  # Set the branch you want to deploy from
 
 jobs:
   deploy:
