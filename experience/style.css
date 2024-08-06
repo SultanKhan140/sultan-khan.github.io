@@ -464,17 +464,3 @@ header .navbar ul li a:hover{
   top: calc(100% - 12rem);
 }
 /* scroll top ends */
-
-.image-container {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  height: 100vh; /* or any specific height you want */
-  background-color: white;
-}
-
-.custom-image {
-  border-radius: 10px;
-  width: 150px;
-  height: 110px;
-}
