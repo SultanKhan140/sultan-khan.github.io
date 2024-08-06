@@ -109,7 +109,7 @@ document.onkeydown = function(e) {
 document.addEventListener('visibilitychange',
 function(){
     if(document.visibilityState === "visible"){
-        document.title = "Experience | Portfolio Arun Patel";
+        document.title = "Experience | Portfolio Sultan Khan";
         $("#favicon").attr("href","/assets/images/my_images/yellowbg.png");
     }
     else {

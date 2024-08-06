@@ -1,30 +1,17 @@
 [
  
   {
-    "name": "Talk",
-    "desc": "A React-based WhatsApp web clone using Firebase is a web application that replicates the functionality of WhatsApp Web using React for the frontend and Firebase for the backend.",
-    "image": "talk",
+    "name": "Book Review",
+    "desc": "The Book Review Project is a comprehensive web application designed for book enthusiasts who want to share their thoughts and opinions on various books. Built using the Django Framework and developed in Visual Studio Code, this project allows users to engage with a community of readers by writing reviews, commenting, and rating books.",
+    "image": "bookreview",
     "category": "Web",
     "technologies": {
-      "frontend" : ["ReactJS", "Html", "CSS", "JavaScript", "Firebase"]
+      "backend" : ["Python", "Django", "DRF" ,"Sqlite"],
+      "frontend" : ["HTML", "CSS", "Bootstrap" ,"JavaScript"]
     },
     "links": {
-      "view": "https://whatsapp-web-clone-36aec.firebaseapp.com/",
-      "code": "https://github.com/ArunPatel1999/Whatsapp-Web"
-    }
-  },
-  {
-    "name": "Movie",
-    "desc": "Spring Boot and Angular based Movie website",
-    "image": "movie",
-    "category": "Full-Stack",
-    "technologies": {
-      "backend" : ["Java", "Spring Boot", "Spring Security", "JWT", "PostgreSQL"],
-      "frontend" : ["Angular", "TypeScript", "HTML", "CSS", "JavaScript"]
-    },
-    "links": {
-      "view": "https://movie-angular-frontend.heroku/",
-      "code": "https://github.com/ArunPatel1999/Angular-Movie-Frontend"
+      "view": "https://sultankhan1401.pythonanywhere.com/",
+      "code": "https://github.com/SultanKhan140/Book-Review.git"
     }
   }
  
