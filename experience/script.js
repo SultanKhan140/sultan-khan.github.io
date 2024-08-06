@@ -33,7 +33,9 @@ function showExperience(experiences) {
         projectHTML += `
         <div class="container `+((i % 2 == 0) ?  "right" : "left" )+`">
             <div class="content">
-                <img  style="float: right; padding: 1.5px; padding-left: 0px; border-radius: 10px;" src="../assets/images/experience/${experience.image}" alt="">
+                <div style="display: flex; justify-content: center; align-items: center; height: 100vh; background-color: white;">
+                    <img  style="float: right; padding: 1.5px; padding-left: 0px; border-radius: 10px;" src="../assets/images/experience/${experience.image}" alt="">
+                </div>
                 <div class="tag">
                     <a href="${experience.url}" target="_blank"> <h2>${experience.name}</h2> </a>
                 </div>
