@@ -1,4 +1,15 @@
 [
+    
+    {
+        "title":"Internship Certificate",
+        "org": "Dezignolics",
+        "image":"internship certificate.jpg"
+    },
+    {
+        "title":"Traning Certificate",
+        "org": "Decodtech Industrial Training",
+        "image":"Traning Certificate.jpg"
+    },
     {
         "title":"Python Certificate",
         "org": "HackeRank",
@@ -9,4 +20,4 @@
         "org": "HackeRank",
         "image":"HackerRank Rest API.jpg"
     }
-]     
+]  
