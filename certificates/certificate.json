@@ -11,6 +11,11 @@
         "image":"Traning Certificate.jpg"
     },
     {
+        "title":"Software Engineer Certificate",
+        "org": "HackeRank",
+        "image":"software_engineer certificate.jpg"
+    },
+    {
         "title":"Python Certificate",
         "org": "HackeRank",
         "image":"HackerRank Python.jpg"
