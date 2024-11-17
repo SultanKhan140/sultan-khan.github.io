@@ -1,5 +1,14 @@
 [
-    
+    {
+        "title":"Gold Badge For Python",
+        "org": "HackeRank",
+        "image":"https://hrcdn.net/fcore/assets/badges/python-f70befd824.svg"
+    },
+    {
+        "title":"Silver Badge For Problem Solving",
+        "org": "HackeRank",
+        "image":"https://hrcdn.net/fcore/assets/badges/problem-solving-ecaf59a612.svg"
+    },
     {
         "title":"Internship Certificate",
         "org": "Dezignolics",
